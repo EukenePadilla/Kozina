@@ -3,7 +3,11 @@
 .foto-alimento{
 	width: 200px;
 	height: 200px;
+/* <<<<<<< HEAD */
+/* 	border-radius: 35%; */
+/* ======= */
 	border-radius: 75%;
+/* >>>>>>> branch 'master' of https://github.com/EukenePadilla/Kozina.git */
 	object-fit: cover;
 	border: 3px solid #181616;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
