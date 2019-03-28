@@ -6,7 +6,11 @@
 /* <<<<<<< HEAD */
 /* 	border-radius: 35%; */
 /* ======= */
-	border-radius: 15%;
+/* <<<<<<< HEAD */
+/* 	border-radius: 15%; */
+/* ======= */
+	border-radius: 75%;
+/* >>>>>>> refs/remotes/origin/master */
 /* >>>>>>> branch 'master' of https://github.com/EukenePadilla/Kozina.git */
 	object-fit: cover;
 	border: 3px solid #181616;
